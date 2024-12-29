@@ -1,0 +1,12 @@
+Alzheimer’s Disease Prediction | Deep Learning.
+Developed a predictive model to identify early signs of Alzheimer's Disease using deep learning techniques. Leveraged convolutional neural networks (CNNs) and other advanced machine learning algorithms to analyze medical imaging data and clinical records.
+Key Responsibilities:
+Data Collection and Preprocessing
+Model Development and Training
+Validation and Evaluation
+
+Echnologies and Tools:
+   Deep learning frameworks: 
+Data processing: NumPy, pandas, scikit-learn
+Medical imaging libraries: OpenCV, SimpleITK
+Visualization: Matplotlib, Seaborn
